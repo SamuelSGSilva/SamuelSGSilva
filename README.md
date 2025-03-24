@@ -8,7 +8,7 @@ Meu nome é **Samuel dos Santos Gonçalves da Silva**, tenho 23 anos e sou apaix
 ---
 
 ## 🚀 **Minhas Estatísticas do GitHub**
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img 
     height="165em" 
     src="https://github-readme-stats.vercel.app/api?username=SamGoncalves&show_icons=true&theme=dark" 
@@ -18,6 +18,7 @@ Meu nome é **Samuel dos Santos Gonçalves da Silva**, tenho 23 anos e sou apaix
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGoncalves&layout=compact&theme=dark" 
   />
 </div>
+
 
 ---
 

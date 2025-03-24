@@ -5,7 +5,7 @@
 
 ### 🚀 Minhas Estatísticas do GitHub:
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: center;">
   <img 
     alt="GitHub Stats" 
     height="180" 

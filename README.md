@@ -23,7 +23,8 @@ Meu nome é Samuel dos Santos Gonçalves da Silva, tenho 23 anos e sou apaixonad
 ### 📌 **Redes Sociais**
 <div>
    <a href="https://discord.com/mclovin7581" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
-  <a href = "mailto:samuelsantos2021@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:samuelsantos20021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
   <a href="https://www.linkedin.com/in/samuel-dos-santos-3a2040241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 

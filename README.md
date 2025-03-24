@@ -5,7 +5,7 @@
 
 ### 🚀 Minhas Estatísticas do GitHub:
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img 
     alt="GitHub Stats" 
     height="180" 
@@ -14,7 +14,8 @@
 
   <img 
     alt="Linguagens Mais Usadas" 
-    height="150" 
+    height="140" 
+    style="max-width: 350px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGoncalves&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>

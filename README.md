@@ -5,7 +5,6 @@ Meu nome é Samuel dos Santos Gonçalves da Silva, tenho 23 anos e sou apaixonad
 ---
 
 ### 🚀 Minhas Estatísticas do GitHub:
-
 <p align="center">
   <img 
     width="49%" 
@@ -16,7 +15,6 @@ Meu nome é Samuel dos Santos Gonçalves da Silva, tenho 23 anos e sou apaixonad
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGoncalves&layout=compact&theme=dark" 
   />
 </p>
-
 
 ---
 

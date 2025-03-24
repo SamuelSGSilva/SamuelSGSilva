@@ -2,10 +2,17 @@
 
 ### 🚀 Minhas Estatísticas do GitHub:
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SamGoncalves&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGoncalves&layout=compact&theme=dark" />
+<p align="center">
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=SamGoncalves&show_icons=true&theme=dark" 
+  />
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGoncalves&layout=compact&theme=dark" 
+  />
 </p>
+
 
 ---
 

@@ -1,6 +1,7 @@
 <h1 align="center">Olá! Eu sou Samuel dos Santos 👋</h1>
 
-🎯 **Sobre mim:**  
+🎯 **Sobre mim:** 
+
 Meu nome é **Samuel dos Santos Gonçalves da Silva**, tenho 23 anos e sou apaixonado por programação desde cedo. Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas**, formado pela **UniAmérica Descomplica**, e atualmente estou no **6º período de Engenharia de Software** na mesma instituição.  
 
 💡 Sempre fui fascinado pelo mundo da tecnologia e estou constantemente buscando aprimorar meus conhecimentos e habilidades na área.

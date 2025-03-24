@@ -53,8 +53,8 @@ Meu nome é **Samuel dos Santos Gonçalves da Silva**, tenho 23 anos e sou apaix
 ## 🐍 **Contribuições no GitHub**
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamGoncalves/SamGoncalves/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamGoncalves/SamGoncalves/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamGoncalves/SamGoncalves/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelSGSilva/SamuelSGSilva/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelSGSilva/SamuelSGSilva/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamuelSGSilva/SamuelSGSilva/output/github-contribution-grid-snake.svg">
   </picture>
 </div>

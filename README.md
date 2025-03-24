@@ -12,10 +12,10 @@ Meu nome é **Samuel dos Santos Gonçalves da Silva**, tenho 23 anos e sou apaix
 <table align="center">
   <tr>
     <td>
-      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SamGoncalves&show_icons=true&theme=dark" />
+      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SamuelSGSilva&show_icons=true&theme=dark" />
     </td>
     <td>
-      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGoncalves&layout=compact&theme=dark" />
+      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSGSilva&layout=compact&theme=dark" />
     </td>
   </tr>
 </table>

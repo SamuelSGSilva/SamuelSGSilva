@@ -1,4 +1,6 @@
 <h1>Olá! Eu sou Samuel dos Santos 👋</h1>
+---
+Meu nome é Samuel dos Santos Gonçalves da Silva, tenho 23 anos e sou apaixonado por programação desde cedo. Sou tecnólogo em Análise e Desenvolvimento de Sistemas, formado pela UniAmérica Descomplica, e atualmente curso o 6º período de Engenharia de Software na mesma instituição. Sempre fui fascinado pelo mundo da tecnologia e estou constantemente buscando aprimorar meus conhecimentos e habilidades na área. 🚀💻
 
 ### 🚀 Minhas Estatísticas do GitHub:
 

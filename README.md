@@ -1,3 +1,34 @@
+### 🚀 Olá, mundo! Eu sou o Samuca 👋
+
+Sou um Desenvolvedor de Software com um foco apaixonado em **Backend**. Para mim, a verdadeira magia da tecnologia acontece nos bastidores: na arquitetura de dados robusta, na lógica de negócios escalável e na performance silenciosa que sustenta toda a experiência de um usuário.
+
+Minha fascinação é construir os "cérebros" por trás das aplicações, garantindo que tudo funcione de forma eficiente, segura e escalável.
+
+---
+
+### 🎓 Minha Jornada: Da Prática à Engenharia
+
+Minha base na tecnologia é construída sobre uma fundação acadêmica dupla e complementar:
+
+1.  Já sou formado como **Tecnólogo em Análise e Desenvolvimento de Sistemas**, o que me deu uma visão prática, ágil e direta para a solução de problemas reais do mercado.
+2.  Atualmente, estou expandindo essa base no **7º período de Engenharia de Software**, onde aprofundo meus conhecimentos em arquiteturas de sistemas complexos, gerenciamento de ciclo de vida de software e os pilares teóricos que regem o desenvolvimento de larga escala.
+
+Essa combinação me permite não apenas "fazer o código funcionar", mas também projetar soluções que sejam sustentáveis e preparadas para o futuro.
+
+---
+
+### 💻 Meu Arsenal de Backend (E Mais!)
+
+Embora meu coração seja do backend, eu navego confortavelmente em dois ecossistemas principais para entregar soluções completas:
+
+* **☕ Ecossistema Java (O Robusto):** Tenho sólida experiência com `Java` e o framework `Spring Boot`. É a minha escolha para construir aplicações de nível enterprise, APIs RESTful seguras e sistemas que exigem estabilidade e performance crítica.
+
+* **⚡ Ecossistema JavaScript (O Ágil):** Utilizo `Node.js` (quase sempre com `TypeScript`) para construir microserviços rápidos, aplicações em tempo real e APIs que precisam de alta concorrência e agilidade no desenvolvimento.
+
+Embora o backend seja meu foco, também tenho proficiência em **Frontend** com `Angular` e, claro, `JavaScript/TypeScript` puros. Também tive uma base sólida em `C`, que me deu uma compreensão fundamental de como o software interage com o hardware.
+
+---
+
 ### 🌱 Meu Foco Atual: O Projeto "indicae" (em equipe!)
 
 Não estou parado no tempo! Meu projeto de destaque no momento é o **"indicae"**: uma plataforma de networking profissional que **estou desenvolvendo com meu grupo**, focada em indicações para estágios e vagas de emprego.
@@ -10,14 +41,36 @@ O diferencial técnico que estamos explorando é o uso de **Inteligência Artifi
 
 ### 🚀 Demonstração do "indicae"
 
-Nada melhor do que ver funcionando! Aqui está um rápido tour pela plataforma:
+Nada melhor do que ver funcionando!
+
+* 🔗 **[Acesse a aplicação ao vivo na Vercel](https://indicae.vercel.app/)**
+* 📂 **[Explore o código-fonte no repositório](https://github.com/SamuelSGSilva/indicae)**
 
 *(Aqui é o lugar perfeito para seu GIF! Você pode fazer upload do GIF no próprio repositório e colocar o link aqui)*
 ![Demonstração do indicae](URL_PARA_SEU_GIF_DE_DEMO_AQUI.gif)
 
-**Você também pode conferir os links do projeto:**
+---
 
-* 🔗 **[Acesse a aplicação ao vivo](URL_DO_DEPLOY_AQUI)** (Se estiver online)
-* 📂 **[Explore o código-fonte no repositório](https://github.com/SamuelSGSilva/indicae)**
+### 🛠️ Tecnologias que domino:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Samuca-Java" height="40" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Samuca-Spring" height="40" width="50" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Samuca-Node" height="40" width="50" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img align="center" alt="Samuca-TS" height="40" width="50" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Samuca-JS" height="40" width="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Samuca-Angular" height="40" width="50" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="Samuca-C" height="40" width="50" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+</div>
 
 ---
+
+### 📊 Minhas Estatísticas
+
+(Aqui entrarão seus gráficos dinâmicos quando você configurar)
+
+*(Este espaço será preenchido automaticamente pelo WakaTime quando você o configurar)*
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelSGSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSGSilva&layout=compact&langs_count=7&theme=dracula"/>
+</div>

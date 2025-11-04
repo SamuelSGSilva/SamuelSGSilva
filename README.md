@@ -73,6 +73,10 @@ Nada melhor do que ver funcionando!
   <img align="center" alt="Samuca-K8s" height="50" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SamuelSGSilva&theme=dracula&row=1&margin-w=15&margin-h=15"/>
+</div>
+
 ---
 
 ### 📊 Minhas Estatísticas

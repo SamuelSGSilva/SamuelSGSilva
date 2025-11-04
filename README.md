@@ -1,61 +1,21 @@
-<h1 align="center">Olá! Eu sou Samuel dos Santos 👋</h1>
+### Olá! Pode me chamar de Samuca 👋
 
-🎯 **Sobre mim:** 
+Sou um Desenvolvedor Backend apaixonado por construir as engrenagens que movem a web. Minha especialidade é criar APIs e sistemas robustos, seja com a força do **Java** e **Spring Boot** ☕, ou com a agilidade do **Node.js** ⚡.
 
-Meu nome é **Samuel dos Santos Gonçalves da Silva**, tenho 23 anos e sou apaixonado por programação desde cedo. Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas**, formado pela **UniAmérica Descomplica**, e atualmente estou no **6º período de Engenharia de Software** na mesma instituição.  
+Atualmente, estou no 7º período de Engenharia de Software (e já sou formado como Tecnólogo em Análise e Desenvolvimento de Sistemas 🎓), sempre buscando conectar a teoria acadêmica com a prática do mercado.
 
-💡 Sempre fui fascinado pelo mundo da tecnologia e estou constantemente buscando aprimorar meus conhecimentos e habilidades na área.
-
----
-
-## 🚀 **Minhas Estatísticas do GitHub**
-
-<table align="center">
-  <tr>
-    <td>
-      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SamuelSGSilva&show_icons=true&theme=dark" />
-    </td>
-    <td>
-      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSGSilva&layout=compact&theme=dark" />
-    </td>
-  </tr>
-</table>
+🌱 Meu foco no momento é o projeto **"indicae"**, onde estou mergulhando no universo de **Inteligência Artificial** para construir uma aplicação inovadora!
 
 ---
 
-## 🤖 **Linguagens e Tecnologias**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50px"/>
-</div>
+### 🛠️ Meu Arsenal de Tecnologias
 
----
-
-## 📌 **Redes Sociais**
-<div align="center">
-  <a href="https://discord.com/mclovin7581" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a> 
-  <a href="mailto:samuelsantos20021@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/samuel-dos-santos-3a2040241/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</div>
-
----
-
-## 🐍 **Contribuições no GitHub**
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelSGSilva/SamuelSGSilva/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelSGSilva/SamuelSGSilva/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamuelSGSilva/SamuelSGSilva/output/github-contribution-grid-snake.svg">
-  </picture>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Samuca-Java" height="40" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Samuca-Spring" height="40" width="50" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Samuca-Node" height="40" width="50" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img align="center" alt="Samuca-TS" height="40" width="50" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Samuca-JS" height="40" width="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Samuca-Angular" height="40" width="50" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="Samuca-C" height="40" width="50" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 </div>

@@ -1,5 +1,9 @@
 ### 🚀 Olá, mundo! Eu sou o Samuca 👋
 
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=SamuelSGSilva&color=blueviolet&style=flat-square" />
+</div>
+
 Sou um Desenvolvedor de Software com um foco apaixonado em **Backend**. Para mim, a verdadeira magia da tecnologia acontece nos bastidores: na arquitetura de dados robusta, na lógica de negócios escalável e na performance silenciosa que sustenta toda a experiência de um usuário.
 
 Minha fascinação é construir os "cérebros" por trás das aplicações, garantindo que tudo funcione de forma eficiente, segura e escalável.

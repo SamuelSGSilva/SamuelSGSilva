@@ -50,7 +50,7 @@ Nada melhor do que ver funcionando!
 * 🔗 **[Acesse a aplicação ao vivo na Vercel](https://indicae.vercel.app/)**
 * 📂 **[Explore o código-fonte no repositório](https://github.com/SamuelSGSilva/indicae)**
 
-![Demonstração do indicae]([https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif](https://github.com/SamuelSGSilva/SamuelSGSilva/blob/main/IndicaiMozillaFirefox2025-11-0411-39-50-ezgif.com-crop(1).gif))
+![Demonstração do indicae]([IndicaiMozillaFirefox2025-11-0411-39-50-ezgif.com-crop(1).gif])
 
 ---
 

@@ -4,6 +4,16 @@
 
 ### 🚀 Olá, mundo! Eu sou o Samuca 👋
 
+<div align="left">
+  <a href="https://www.instagram.com/samuca2670" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:samuelsantos20021@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
+<br>
+
 Sou um Desenvolvedor de Software com um foco apaixonado em **Backend**. Para mim, a verdadeira magia da tecnologia acontece nos bastidores: na arquitetura de dados robusta, na lógica de negócios escalável e na performance silenciosa que sustenta toda a experiência de um usuário.
 
 Minha fascinação é construir os "cérebros" por trás das aplicações, garantindo que tudo funcione de forma eficiente, segura e escalável.

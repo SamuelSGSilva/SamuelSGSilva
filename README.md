@@ -31,9 +31,11 @@ Embora o backend seja meu foco, também tenho proficiência em **Frontend** com 
 
 ### 🌱 Meu Foco Atual: O Projeto "indicae"
 
-Não estou parado no tempo! Meu projeto de destaque no momento é o **"indicae"**.
+Não estou parado no tempo! Meu projeto de destaque no momento é o **"indicae"**: uma plataforma de networking profissional que estou desenvolvendo, focada em indicações para estágios e vagas de emprego.
 
-Neste desafio, estou explorando ativamente o universo da **Inteligência Artificial**. Estou aplicando modelos e integrando sistemas de IA para desenvolver uma aplicação [mencione brevemente o que o app faz, ex: "...de recomendação inteligente" ou "...de análise preditiva"]. É a minha forma de estar na vanguarda da inovação e trazer poder preditivo para aplicações do dia a dia.
+A plataforma permite que os usuários se cadastrem, detalhem suas *soft skills* e *hard skills* e, em seguida, busquem e se conectem com outros profissionais com base nessas competências. Após uma conexão ser aceita, um chat privado é liberado para que possam conversar sobre projetos, oportunidades e criar uma rede de contatos valiosa.
+
+O diferencial técnico que estou explorando neste projeto é o uso de **Inteligência Artificial** para otimizar o sistema de busca e *match* de skills, facilitando indicações mais precisas e relevantes.
 
 ---
 

@@ -4,6 +4,10 @@ Sou um Desenvolvedor de Software com um foco apaixonado em **Backend**. Para mim
 
 Minha fascinação é construir os "cérebros" por trás das aplicações, garantindo que tudo funcione de forma eficiente, segura e escalável.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%">
+</div>
+
 ---
 
 ### 🎓 Minha Jornada: Da Prática à Engenharia
@@ -46,8 +50,8 @@ Nada melhor do que ver funcionando!
 * 🔗 **[Acesse a aplicação ao vivo na Vercel](https://indicae.vercel.app/)**
 * 📂 **[Explore o código-fonte no repositório](https://github.com/SamuelSGSilva/indicae)**
 
-*(Aqui é o lugar perfeito para seu GIF! Você pode fazer upload do GIF no próprio repositório e colocar o link aqui)*
-![Demonstração do indicae](URL_PARA_SEU_GIF_DE_DEMO_AQUI.gif)
+*(Assim que você gravar o seu GIF de demonstração do app, pode substituir este abaixo)*
+![Demonstração do indicae](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 ---
 
@@ -67,9 +71,6 @@ Nada melhor do que ver funcionando!
 
 ### 📊 Minhas Estatísticas
 
-(Aqui entrarão seus gráficos dinâmicos quando você configurar)
-
-*(Este espaço será preenchido automaticamente pelo WakaTime quando você o configurar)*
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelSGSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSGSilva&layout=compact&langs_count=7&theme=dracula"/>

@@ -74,9 +74,11 @@ Nada melhor do que ver funcionando!
 </div>
 ---
 
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SamuelSGSilva&theme=dracula&row=1&margin-w=15&margin-h=15"/>
 </div>
+
 
 ### 📊 Minhas Estatísticas
 

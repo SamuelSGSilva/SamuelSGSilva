@@ -1,14 +1,43 @@
-### Olá! Pode me chamar de Samuca 👋
+### 🚀 Olá, mundo! Eu sou o Samuca 👋
 
-Sou um Desenvolvedor Backend apaixonado por construir as engrenagens que movem a web. Minha especialidade é criar APIs e sistemas robustos, seja com a força do **Java** e **Spring Boot** ☕, ou com a agilidade do **Node.js** ⚡.
+Sou um Desenvolvedor de Software com um foco apaixonado em **Backend**. Para mim, a verdadeira magia da tecnologia acontece nos bastidores: na arquitetura de dados robusta, na lógica de negócios escalável e na performance silenciosa que sustenta toda a experiência de um usuário.
 
-Atualmente, estou no 7º período de Engenharia de Software (e já sou formado como Tecnólogo em Análise e Desenvolvimento de Sistemas 🎓), sempre buscando conectar a teoria acadêmica com a prática do mercado.
-
-🌱 Meu foco no momento é o projeto **"indicae"**, onde estou mergulhando no universo de **Inteligência Artificial** para construir uma aplicação inovadora!
+Minha fascinação é construir os "cérebros" por trás das aplicações, garantindo que tudo funcione de forma eficiente, segura e escalável.
 
 ---
 
-### 🛠️ Meu Arsenal de Tecnologias
+### 🎓 Minha Jornada: Da Prática à Engenharia
+
+Minha base na tecnologia é construída sobre uma fundação acadêmica dupla e complementar:
+
+1.  Já sou formado como **Tecnólogo em Análise e Desenvolvimento de Sistemas**, o que me deu uma visão prática, ágil e direta para a solução de problemas reais do mercado.
+2.  Atualmente, estou expandindo essa base no **7º período de Engenharia de Software**, onde aprofundo meus conhecimentos em arquiteturas de sistemas complexos, gerenciamento de ciclo de vida de software e os pilares teóricos que regem o desenvolvimento de larga escala.
+
+Essa combinação me permite não apenas "fazer o código funcionar", mas também projetar soluções que sejam sustentáveis e preparadas para o futuro.
+
+---
+
+### 💻 Meu Arsenal de Backend (E Mais!)
+
+Embora meu coração seja do backend, eu navego confortavelmente em dois ecossistemas principais para entregar soluções completas:
+
+* **☕ Ecossistema Java (O Robusto):** Tenho sólida experiência com `Java` e o framework `Spring Boot`. É a minha escolha para construir aplicações de nível enterprise, APIs RESTful seguras e sistemas que exigem estabilidade e performance crítica.
+
+* **⚡ Ecossistema JavaScript (O Ágil):** Utilizo `Node.js` (quase sempre com `TypeScript`) para construir microserviços rápidos, aplicações em tempo real e APIs que precisam de alta concorrência e agilidade no desenvolvimento.
+
+Embora o backend seja meu foco, também tenho proficiência em **Frontend** com `Angular` e, claro, `JavaScript/TypeScript` puros. Também tive uma base sólida em `C`, que me deu uma compreensão fundamental de como o software interage com o hardware.
+
+---
+
+### 🌱 Meu Foco Atual: O Projeto "indicae"
+
+Não estou parado no tempo! Meu projeto de destaque no momento é o **"indicae"**.
+
+Neste desafio, estou explorando ativamente o universo da **Inteligência Artificial**. Estou aplicando modelos e integrando sistemas de IA para desenvolver uma aplicação [mencione brevemente o que o app faz, ex: "...de recomendação inteligente" ou "...de análise preditiva"]. É a minha forma de estar na vanguarda da inovação e trazer poder preditivo para aplicações do dia a dia.
+
+---
+
+### 🛠️ Tecnologias que domino:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuca-Java" height="40" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">

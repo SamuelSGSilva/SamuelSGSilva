@@ -100,6 +100,7 @@ Nada melhor do que ver funcionando!
   <img src="https://img.shields.io/badge/Glide-000000?style=for-the-badge&logo=none&logoColor=white" alt="Glide"/>
   <img src="https://img.shields.io/badge/Dyad-7552cc?style=for-the-badge&logo=none&logoColor=white" alt="Dyad"/>
 </div>
+
 ---
 
 ### 📊 Minhas Estatísticas

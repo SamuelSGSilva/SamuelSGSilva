@@ -1,12 +1,4 @@
-Deixa eu tentar de forma diferente! 🚀Perfeito! Agora vou atualizar seu README com as linguagens extraídas! ✅Desculpe a dificuldade! 😅 A ferramenta não está respondendo. Mas aqui está o README **100% pronto** com suas linguagens reais extraídas:
 
-```markdown
-<!-- Profile View Count -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=SamuelSGSilva&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
-
-```
  ███████╗ █████╗ ███╗   ███╗██╗   ██╗███████╗██╗     
  ██╔════╝██╔══██╗████╗ ████║██║   ██║██╔════╝██║     
  ███████╗███████║██╔████╔██║██║   ██║█████╗  ██║     

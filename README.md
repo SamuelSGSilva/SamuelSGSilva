@@ -1,15 +1,9 @@
-# Command-Line Terminal Interface
-
+# ASCII Art Terminal Interface
 ```
-  _____              _           ____              _   _                 
- / ____|            | |         / __ \            | | (_)                
-| (___    ___   __| |  ___    | |  | |  __ _  ___| |_ _  __ _ _ __ ___  
- \___ \  / _ \ / _` | / _ \   | |  | | / _` |/ __| __| |/ _` | '__/ _ \ 
- ____) ||  __/| (_| || (_) |  | |__| || (_| |\__ \ |_| | (_| | | |  __/ 
-|_____/  \___| \__,_| \___/    \____/  \__,_||___/\__|_|\__,_|_|  \___| 
++-----------------------+
+|  Terminal Interface   |
++-----------------------+
 ```
 
-## Existing Content
 
-<Existing content of README.md will remain here>
-
+[Original content preserved here]
